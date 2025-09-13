@@ -1,8 +1,4 @@
 ---
-
-# Proyectos Destacados
-
----
 layout: default
 title: Proyectos
 ---
@@ -20,5 +16,6 @@ Exploración de datos de vehículos usando Python y Streamlit para crear dashboa
 ### [Proyecto Analítico con Pruebas AB, SQL y Visualización de Métricas](https://github.com/isaacbu710/Proyecto_Analitico_con_Pruebas_AB_SQL_y_Visualizacion_de_Metricas)
 Proyecto de análisis de métricas con pruebas A/B, consultas SQL y visualización de resultados.  
 **Tecnologías:** SQL, Python, Tableau, Matplotlib
+
 
 
