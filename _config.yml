@@ -1,24 +1,22 @@
 ---
 layout: default
-title: Isaac Buendía Portfolio
+title: Isaac  Portfolio
+description: "Portfolio profesional de Isaac"
+theme: jekyll-theme-cayman
 ---
 
-# Hola, soy Isaac Buendía
+# Hola, soy Isaac
 
-Soy desarrollador y analista de datos. Me especializo en:
+Soy analista de datos. Me especializo en:
 
-- Desarrollo web
 - Análisis de datos
 - Automatización de procesos
-- QA y pruebas de software
 
 ## Proyectos Destacados
 
-### [Proyecto 1](https://github.com/isaacbu710/NOMBRE_PROYECTO1)
-Breve descripción del proyecto y tecnologías utilizadas.
+### [Proyecto 1](https://github.com/isaacbu710/Producci-n_de_aguacate_Mexico/blob/main/README.md)
 
-### [Proyecto 2](https://github.com/isaacbu710/NOMBRE_PROYECTO2)
-Breve descripción del proyecto y tecnologías utilizadas.
+### [Proyecto 2](https://github.com/isaacbu710/Proyecto_Analitico_con_Pruebas_AB_SQL_y_Visualizacion_de_Metricas)
 
 ### [Proyecto 3](https://github.com/isaacbu710/NOMBRE_PROYECTO3)
 Breve descripción del proyecto y tecnologías utilizadas.
@@ -29,6 +27,6 @@ Soy un profesional apasionado por la tecnología y la data, con habilidades en c
 
 ## Contacto
 
-- **Email:** isaac@example.com  
-- **LinkedIn:** [linkedin.com/in/isaacbuendia](https://www.linkedin.com/in/isaacbuendia)  
+- **Email:** hernandez_burgos@outlook.com 
+- **LinkedIn:** [linkedin.com/in/isaacbuendia](www.linkedin.com/in/isaachernandez-dataanalyst)  
 - **GitHub:** [github.com/isaacbu710](https://github.com/isaacbu710)
