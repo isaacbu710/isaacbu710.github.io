@@ -1,4 +1,8 @@
 ---
+
+# Proyectos Destacados
+
+---
 layout: default
 title: Proyectos
 ---
@@ -9,11 +13,12 @@ title: Proyectos
 Análisis de producción de aguacate en México y comparación con otros países, utilizando Python y visualizaciones de datos.  
 **Tecnologías:** Python, Pandas, Matplotlib, Seaborn
 
-### [Análisis de ventas de videojuegos](https://github.com/isaacbu710/video-games-analysis)
-Exploración y visualización de datos de ventas de videojuegos, identificando patrones de éxito y recomendando estrategias de marketing.  
-**Tecnologías:** Python, Pandas, Matplotlib, Seaborn
+### [Visualización Exploratoria de Datos de Vehículos con Python y Streamlit](https://github.com/isaacbu710/Visualizacion_Exploratoria_de_Datos_de_Vehiculos_con_Python_y_Streamlit)
+Exploración de datos de vehículos usando Python y Streamlit para crear dashboards interactivos.  
+**Tecnologías:** Python, Pandas, Streamlit, Matplotlib, Seaborn
 
-### [Dashboard de KPIs para restaurante](https://github.com/isaacbu710/restaurant-kpi-dashboard)
-Dashboard interactivo que muestra métricas clave de un restaurante usando Power BI y SQL para la extracción de datos.  
-**Tecnologías:** Power BI, SQL, Excel
+### [Proyecto Analítico con Pruebas AB, SQL y Visualización de Métricas](https://github.com/isaacbu710/Proyecto_Analitico_con_Pruebas_AB_SQL_y_Visualizacion_de_Metricas)
+Proyecto de análisis de métricas con pruebas A/B, consultas SQL y visualización de resultados.  
+**Tecnologías:** SQL, Python, Tableau, Matplotlib
+
 
